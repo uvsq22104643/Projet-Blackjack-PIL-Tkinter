@@ -10,6 +10,14 @@ Le jeu **Blackjack** est une version numérique du célèbre jeu de casino. Dans
 - Les cartes de 10, Valet, Dame et Roi valent 10 points.
 - L'As peut valoir 1 ou 11 points, selon le choix du joueur.
 
+## Informations de Projet
+
+- **Groupe de TD04** : 
+- **Étudiants du groupe de projet** :
+  - Étudiant 1 (Serkoukou Fouad)
+
+- **URL du dépôt GitHub** : https://github.com/uvsq22104643/Projet-Blackjack-PIL-Tkinter
+
 ## Fonctionnalités
 
 ### Interface Graphique
